@@ -1872,6 +1872,7 @@
     "list.focusBackground": "#033396",
     "list.focusForeground": "#cdcdcd",
     "list.warningForeground": "#FFE9CC",
+    "list.errorForeground": "#610026",
     "listFilterWidget.background": "#663a00",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#940039",

@@ -17,5 +17,8 @@
                 "path": "./themes/Jamie xx - Nearer-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "local:deploy": "cp themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json ~/.vscode/extensions/vscode-jamie-xx-nearer-theme/themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json"
     }
 }

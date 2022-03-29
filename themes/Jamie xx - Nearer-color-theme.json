@@ -1975,6 +1975,8 @@
     "list.inactiveSelectionBackground": "#e81ad6",
     "list.inactiveSelectionForeground": "#2a2a2a",
     "list.warningForeground": "#FFE9CC",
+    "debugTokenExpression.name": "#022264",
+    "debugTokenExpression.value": "#F0F5FF",
     "listFilterWidget.background": "#663a00",
     "listFilterWidget.noMatchesOutline": "#940039",
     "listFilterWidget.outline": "#00000000",

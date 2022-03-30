@@ -1945,7 +1945,7 @@
     "editorWidget.background": "#011132",
     "editorWidget.foreground": "#cccccc",
     "editorWidget.resizeBorder": "#5F5F5F",
-    "focusBorder": "#00000030",
+    "focusBorder": "#00000010",
     "foreground": "#ffccfa",
     "gitDecoration.addedResourceForeground": "#037d07d9",
     "gitDecoration.conflictingResourceForeground": "#022264",

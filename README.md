@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "jamie-xx-nearer-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Jamie xx - Nearer Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A Visual Studio Code theme inspired by [Jamie xx's](https://en.wikipedia.org/wiki/Jamie_xx) EP [Far Nearer / Beat For](https://en.wikipedia.org/wiki/Far_Nearer_/_Beat_For).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Inspiration
 
-**Enjoy!**
+![Album Art](https://upload.wikimedia.org/wikipedia/en/6/69/Jamie_xx_-_Far_Nearer_%28cover%29.jpg)
+
+## Theme Demo
+
+![Ex1](./demos/example1.png)
+
+![Ex2](./demos/example2.png)

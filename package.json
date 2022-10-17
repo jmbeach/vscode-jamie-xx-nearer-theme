@@ -2,7 +2,7 @@
     "name": "jamie-xx-nearer-theme",
     "displayName": "Jamie xx - Nearer Theme",
     "description": "Theme based on the album art of Far Nearer / Beat For EP by Jamie xx",
-	"icon": "demos/icon.png",
+    "icon": "demos/icon.png",
     "publisher": "jmbeach",
     "version": "0.0.2",
     "repository": {
@@ -24,6 +24,11 @@
         ]
     },
     "scripts": {
-        "local:deploy": "cp themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json ~/.vscode/extensions/vscode-jamie-xx-nearer-theme/themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json"
+        "local:deploy": "cp themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json ~/.vscode/extensions/vscode-jamie-xx-nearer-theme/themes/Jamie\\ xx\\ -\\ Nearer-color-theme.json",
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "devDependencies": {
+        "vsce": "^2.11.0"
     }
 }

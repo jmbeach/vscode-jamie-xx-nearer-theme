@@ -4,7 +4,7 @@
     "description": "Theme based on the album art of Far Nearer / Beat For EP by Jamie xx",
 	"icon": "demos/icon.png",
     "publisher": "jmbeach",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "url": "https://github.com/jmbeach/vscode-jamie-xx-nearer-theme"
     },

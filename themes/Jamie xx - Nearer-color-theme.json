@@ -1973,7 +1973,7 @@
     "list.errorForeground": "#610026",
     "list.focusBackground": "#CC00BA",
     "list.focusForeground": "#011132",
-    "list.highlightForeground": "#022264",
+    "list.highlightForeground": "#FFE9CC",
     "list.hoverBackground": "#e81ad6",
     "list.hoverForeground": "#011132",
     "list.inactiveSelectionBackground": "#FF00E8",
